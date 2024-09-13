@@ -1,5 +1,5 @@
 import numpy as np
-from utils import test1
+from .utils import test1
 
 abc = np.zeros(10)
 
