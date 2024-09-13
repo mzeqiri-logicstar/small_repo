@@ -1,6 +1,5 @@
 import numpy as np
 from utils import test1
-from .blabla import *
 
 abc = np.zeros(10)
 
