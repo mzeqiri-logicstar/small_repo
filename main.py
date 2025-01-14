@@ -7,6 +7,7 @@ length = len(abc)
 shape = abc.shape
 
 if isinstance(abc, list):
+	print("hi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n)
 	print(True)
 
 def test_fct():
